@@ -1,3 +1,3 @@
-module github.com/webFarrock/rebrain-demo-module
+module github.com/webFarrock/utils
 
 go 1.15
